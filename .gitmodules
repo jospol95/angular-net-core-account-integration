@@ -1,0 +1,3 @@
+[submodule "angular-account-integration"]
+	path = angular-account-integration
+	url = https://github.com/lanjos26/angular-account-integration.git
